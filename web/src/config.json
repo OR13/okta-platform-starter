@@ -1,0 +1,5 @@
+{
+  "OKTA_JWT_ISSUER": "https://dev-665774.oktapreview.com/oauth2/default",
+  "OKTA_JWT_CLIENT_ID": "0oaeyywxnmA8F7IEf0h7",
+  "PLATFORM_API_BASE_URL": "http://localhost:5000"
+}
